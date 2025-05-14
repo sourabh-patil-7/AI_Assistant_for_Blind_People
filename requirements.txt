@@ -1,0 +1,19 @@
+# Core dependencies
+numpy>=1.19.5
+opencv-python>=4.5.0
+pyttsx3>=2.90
+ultralytics>=8.0.0
+
+# TTS and Voice recognition
+pyaudio>=0.2.11
+vosk>=0.3.32
+
+# Computer vision and ML models
+tensorflow>=2.5.0
+torch>=1.8.0
+torchvision>=0.9.0
+transformers>=4.11.0
+Pillow>=8.2.0
+
+# Optional: Windows-specific dependencies
+# pywin32>=300 ; platform_system=="Windows"
