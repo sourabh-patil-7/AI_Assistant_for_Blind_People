@@ -108,7 +108,7 @@ AI_Assistant_for_Blind_People/
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Sourabh Patil](https://github.com/sourabh-patil-7)
 - [Other Contributors]
 
 ## License
