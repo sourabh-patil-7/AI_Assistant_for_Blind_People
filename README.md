@@ -21,7 +21,7 @@ An assistive technology application that uses computer vision and artificial int
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/AI_Assistant_for_Blind_People.git
+git clone https://github.com/sourabh-patil-7/AI_Assistant_for_Blind_People.git
 cd AI_Assistant_for_Blind_People
 ```
 
